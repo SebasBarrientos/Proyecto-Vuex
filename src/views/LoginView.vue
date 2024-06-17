@@ -1,8 +1,8 @@
 <template>
     <div class="login">
       <h1 class="title">Login to this awesome page</h1>
-      <form class="form">
-        <label class="form-label" for="#email">Email:</label>
+      <form class="form" id="form">
+        <label action class="form-label" for="email">Email:</label>
         <input
           class="form-input"
           type="email"
@@ -10,7 +10,7 @@
           required
           placeholder="Email"
         />
-        <label class="form-label" for="#password">Password:</label>
+        <label class="form-label" for="password">Password:</label>
         <input
           class="form-input"
           type="password"
