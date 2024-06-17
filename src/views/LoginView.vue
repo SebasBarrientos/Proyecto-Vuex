@@ -1,6 +1,6 @@
 <template>
     <div class="login">
-      <h1 class="title">Login in the page</h1>
+      <h1 class="title">Login to this awesome page</h1>
       <form class="form">
         <label class="form-label" for="#email">Email:</label>
         <input
