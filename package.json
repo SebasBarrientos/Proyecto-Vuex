@@ -13,6 +13,7 @@
     "test:unit:dev": "cypress open --component"
   },
   "dependencies": {
+    "sass": "^1.77.5",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0",
     "vuex": "^4.0.2"
